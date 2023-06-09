@@ -3,7 +3,7 @@ A Rust http server that boots two memory resident WebTerm instances in the brows
 
 This is a port of the WebTerm project found here: https://github.com/minie4/WebTerm
 
-Requires the os.iso file from the above repository to be located in the 'assets' folder at build time.
+#**Requires the os.iso file from the above repository to be located in the 'assets' folder at build time.**
 
 **This is not a production server. It is intended for sandboxed testing purposes only.**
 
