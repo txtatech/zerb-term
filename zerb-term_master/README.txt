@@ -81,7 +81,7 @@ This command will download and compile all the necessary dependencies, and then 
 4. Access the web server:
 
 Open your web browser and visit:
-`http://localhost:8080`, `http://localhost:8081`, `http://localhost:8080/index.html`, `http://localhost:8081/index1.html`
+`http://localhost:8080`, `http://localhost:8081`, `http://localhost:8080/index.html`, `http://localhost:8081/index.html`
 
 ## Dependencies
 
